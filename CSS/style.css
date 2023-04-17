@@ -82,7 +82,6 @@ section.imagem > p {
 
 section#img01 {
     background-image: url('../imagens/background001.jpg');
-    background-position: right center;
 }
 
 section#img02 {
@@ -93,5 +92,5 @@ footer {
     background-color: black;
     text-align: center;
     color: white;
-    padding: 10px;
+    padding: 15px;
 }
