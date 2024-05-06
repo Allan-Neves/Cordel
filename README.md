@@ -4,7 +4,7 @@ Esse é um projeto que fiz com a ajuda do [Curso em Vídeo](https://www.youtube.
 
 ## Demo
 
-[Clique aqui](https://allan-carlos.github.io/Cordel/) e você será redirecionado(a) para o site.
+[Clique aqui](https://allan-neves.github.io/Cordel/) e você será redirecionado(a) para o site.
 
 ## Tecnologias Usadas
 
